@@ -1,3 +1,6 @@
 [submodule "AndroidProject/PokedexWithReaktive"]
 	path = AndroidProject/PokedexWithReaktive
 	url = https://github.com/kkhouse/PokedexWithReaktive
+[submodule "AndroidProject/MVIKotlin-DecomposeSampleApp"]
+	path = AndroidProject/MVIKotlin-DecomposeSampleApp
+	url = https://github.com/kkhouse/MVIKotlin-DecomposeSampleApp.git
